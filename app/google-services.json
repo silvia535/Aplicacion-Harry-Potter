@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827493771178",
+    "project_id": "hpapp-4d5eb",
+    "storage_bucket": "hpapp-4d5eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827493771178:android:1a16824e79569f849badd3",
+        "android_client_info": {
+          "package_name": "es.uva.inf5g.psm.hpapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCqKByT5MD2fcLBmf76GaMk2Iyf4Cjvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
